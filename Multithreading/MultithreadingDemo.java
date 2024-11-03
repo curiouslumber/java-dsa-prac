@@ -1,4 +1,4 @@
-package foundations;
+package Multithreading;
 
 /**
  * Purpose: Cover the basics of multithreading.
