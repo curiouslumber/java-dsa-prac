@@ -41,6 +41,7 @@ class Cat extends Animal {
 }
 
 public class PolymorphismDemo {
+    @SuppressWarnings({ "removal", "null" })
     public static void main(String[] args) {
         // 1. Runtime Polymorphism (Method Overriding)
         Animal myAnimal = new Animal();
