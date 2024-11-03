@@ -26,7 +26,7 @@ public class PatternMatchingDemo {
         System.out.println("Your grade: " + grade + " - Result: " + result);
 
         // Example use case with pattern matching in switch statements
-        Object anotherObj = 42; // This can be any Object type
+        // Object anotherObj = 42; // This can be any Object type
 
         // Below only available in Java 21 and above
         // String response = switch (anotherObj) {
