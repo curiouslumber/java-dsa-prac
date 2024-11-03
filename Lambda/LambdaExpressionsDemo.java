@@ -10,6 +10,7 @@ import java.util.function.Predicate;
  * Purpose: Introduce lambda expressions for functional programming.
  * Topics: Syntax, functional interfaces, and using lambdas with the Collection API.
  */
+@SuppressWarnings("unused")
 public class LambdaExpressionsDemo {
 
     public static void main(String[] args) {
