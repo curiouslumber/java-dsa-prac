@@ -1,4 +1,4 @@
-package OOPConcepts;
+package OOPsConcepts;
 
 // Main class to demonstrate inheritance concepts
 public class InheritanceDemo {
