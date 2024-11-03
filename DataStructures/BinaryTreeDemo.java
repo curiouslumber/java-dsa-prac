@@ -1,8 +1,5 @@
 package DataStructures;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 public class BinaryTreeDemo {
 
     // Node class representing each node in the binary tree
